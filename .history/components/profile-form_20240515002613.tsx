@@ -48,7 +48,7 @@ export function ProfileForm() {
             <FormItem>
               <FormLabel>Username</FormLabel>
               <FormControl>
-                <Input placeholder="tushcmd" {...field} />
+                <Input placeholder="shadcn" {...field} />
               </FormControl>
               <FormDescription>
                 This is your public display name.
